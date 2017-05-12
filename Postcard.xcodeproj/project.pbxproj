@@ -14,6 +14,8 @@
 		BAC522511EC513E100FC1AD2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BAC5224F1EC513E100FC1AD2 /* LaunchScreen.storyboard */; };
 		BAC5225C1EC513E200FC1AD2 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAC5225B1EC513E200FC1AD2 /* PostcardTests.swift */; };
 		BAC522671EC513E200FC1AD2 /* PostcardUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAC522661EC513E200FC1AD2 /* PostcardUITests.swift */; };
+		BAC522751EC5445500FC1AD2 /* artur-rutkowski-37502.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BAC522741EC5445400FC1AD2 /* artur-rutkowski-37502.jpg */; };
+		BAC522771EC5470700FC1AD2 /* reserve_profilePIC3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BAC522761EC5470700FC1AD2 /* reserve_profilePIC3.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		BAC522621EC513E200FC1AD2 /* PostcardUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BAC522661EC513E200FC1AD2 /* PostcardUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardUITests.swift; sourceTree = "<group>"; };
 		BAC522681EC513E200FC1AD2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BAC522741EC5445400FC1AD2 /* artur-rutkowski-37502.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "artur-rutkowski-37502.jpg"; sourceTree = "<group>"; };
+		BAC522761EC5470700FC1AD2 /* reserve_profilePIC3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = reserve_profilePIC3.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +105,8 @@
 				BAC522481EC513E100FC1AD2 /* ViewController.swift */,
 				BAC5224A1EC513E100FC1AD2 /* Main.storyboard */,
 				BAC5224D1EC513E100FC1AD2 /* Assets.xcassets */,
+				BAC522761EC5470700FC1AD2 /* reserve_profilePIC3.jpg */,
+				BAC522741EC5445400FC1AD2 /* artur-rutkowski-37502.jpg */,
 				BAC5224F1EC513E100FC1AD2 /* LaunchScreen.storyboard */,
 				BAC522521EC513E100FC1AD2 /* Info.plist */,
 			);
@@ -232,7 +238,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BAC522751EC5445500FC1AD2 /* artur-rutkowski-37502.jpg in Resources */,
 				BAC522511EC513E100FC1AD2 /* LaunchScreen.storyboard in Resources */,
+				BAC522771EC5470700FC1AD2 /* reserve_profilePIC3.jpg in Resources */,
 				BAC5224E1EC513E100FC1AD2 /* Assets.xcassets in Resources */,
 				BAC5224C1EC513E100FC1AD2 /* Main.storyboard in Resources */,
 			);
