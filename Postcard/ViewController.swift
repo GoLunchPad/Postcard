@@ -29,6 +29,9 @@ class ViewController: UIViewController {
     }
 
     @IBAction func sendMailButtonPressed(_ sender: UIButton) {
+        
+        //button press action results
+        
         nameLabel.isHidden = false
         messageLabel.isHidden = false
         
